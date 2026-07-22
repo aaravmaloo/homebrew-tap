@@ -1,8 +1,8 @@
 class Blob < Formula
   desc "Interactive terminal-based note taking and plugin manager"
   homepage "https://github.com/aaravmaloo/blob"
-  url "https://github.com/aaravmaloo/blob/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "a342cbcb6eeffe9985513f6572b133017ab12b503519c7eab3c74815debc95d7"
+  url "https://github.com/aaravmaloo/blob/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "96b380773290784ca68108337b5a33f06c1869ade2b99897aaa6e3978a05a8e5"
   license "GPL-2.0-only"
 
   def install
