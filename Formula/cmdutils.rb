@@ -2,7 +2,7 @@ class Cmdutils < Formula
   desc "Cross-platform CLI utility toolbox for everyday tasks"
   homepage "https://github.com/aaravmaloo/cmdutils"
   url "https://github.com/aaravmaloo/cmdutils/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "9baa4aabe3d302c734b0bc8a25c01bec96e2bdb0b68df110d3109a33b6c2f7e8"
+  sha256 "980e243c25d205cf756c418c326bd15b7c6b2c26083a111c1fe2de92c461b6a5"
   license "MIT"
 
   depends_on "rust" => :build
