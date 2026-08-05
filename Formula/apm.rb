@@ -1,8 +1,8 @@
 class Apm < Formula
   desc "Advanced Password Manager"
   homepage "https://github.com/aaravmaloo/apm"
-  url "https://github.com/aaravmaloo/apm/archive/refs/tags/v11.1.0.tar.gz"
-  sha256 "6879a277733a1571debfdbe5b9a752f67c9a27a1643ca7657568e08451cff5b6"
+  url "https://github.com/aaravmaloo/apm/archive/refs/tags/v11.2.0.tar.gz"
+  sha256 "93b403557be8ebb445025df21ae410121372fdfc5c8f71d7eb54f3c1236200ce"
   license "GPL-3.0-only"
  
   depends_on "go" => :build
