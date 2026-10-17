@@ -1,6 +1,6 @@
 cask "vrai" do
-  version "1.0.0"
-  sha256 "78ac0d8d9b73f03ca5fb6e2b12480fb24fbeb5e2c67a7f8af902f6a86336579c"
+  version "1.1.0"
+  sha256 "e0eee8cc3ea13a7b10c972a00b0072ff24a837aa189ceaaa4776cce8234dfd0a"
 
   url "https://github.com/aaravmaloo/vrai/releases/download/v#{version}/Vrai-#{version}.dmg"
   name "Vrai"
